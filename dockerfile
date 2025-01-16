@@ -1,4 +1,3 @@
--m pip install python
 pip install python
 from python:latest
   
